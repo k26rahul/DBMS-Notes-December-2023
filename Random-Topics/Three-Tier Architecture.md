@@ -1,0 +1,9 @@
+- Three-Tier Architecture
+  - Application architecture model
+  - Three layers: Presentation, Logic, Data
+  - Presentation tier: User interface
+  - Logic tier: Business rules, processing
+  - Data tier: Database, storage
+  - Separation of concerns
+  - Scalability, maintainability
+  - Common in web applications

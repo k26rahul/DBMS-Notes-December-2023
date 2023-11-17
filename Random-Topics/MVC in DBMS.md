@@ -1,0 +1,9 @@
+- MVC in DBMS
+  - Model: Data management, structure, logic
+  - View: User interface, data presentation
+  - Controller: Input handling, app flow
+- Separation of Concerns
+- Scalability, maintainability
+- Improved code organization
+- Common in web apps, desktop software
+- Understand MVC roles and benefits

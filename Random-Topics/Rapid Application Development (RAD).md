@@ -1,0 +1,9 @@
+- Rapid Application Development (RAD)
+  - Agile, iterative development
+  - Focus on rapid prototyping
+  - User feedback-driven
+  - Short development cycles
+  - Reduced planning, upfront design
+  - Accelerated time to market
+  - Example: Scrum, XP, Lean
+  - Suitable for dynamic projects

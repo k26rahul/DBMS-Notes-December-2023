@@ -1,0 +1,15 @@
+- **Microservices**: Architecture breaking apps into small, independent services via APIs.
+
+- **Independence**: Each service operates independently for easy dev, updates, and scaling.
+
+- **Data** Management: Services use separate or shared databases as needed.
+
+- **Communication**: Services use APIs, tech flexibility, and CI support.
+
+- **Scalability**: Services scale independently to meet demands.
+
+- **Maintenance**: Updates are non-disruptive to the whole app.
+
+- **Challenges**: Include communication, data consistency, and network monitoring.
+
+- **Benefits**: Agility, fault isolation, continuous delivery, and DevOps support.

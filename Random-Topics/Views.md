@@ -1,0 +1,9 @@
+- Views
+  - Virtual tables in a database
+  - Display specific data from tables
+  - Filter, format, or join data
+  - Hide complexity from users
+  - Secure sensitive information
+  - No physical storage, stored query
+  - Simplify complex queries
+  - Read-only or updatable views
