@@ -1,4 +1,4 @@
-## **ER Diagram Components **
+## **ER Diagram Components**
 
 ![Alt text](image-1.png)
 
