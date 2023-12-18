@@ -90,8 +90,8 @@
 Choose based on needs: speed (RAID 0), redundancy (RAID 1), balance (RAID 5), or a mix (RAID 10/6).
 
 ## Considering the abstract transaction model:
-a) Illustrate the state diagram of a transaction and elaborate on its states
-b) Discuss a compensation transaction with an example
+- a) Illustrate the state diagram of a transaction and elaborate on its states
+- b) Discuss a compensation transaction with an example
 
 **a) Transaction State Diagram:**
 
