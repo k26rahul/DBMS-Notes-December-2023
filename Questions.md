@@ -1,4 +1,4 @@
-> **What are mapping cardinalities and why are they used? Discuss their types in brief with suitable diagrams.**
+### What are mapping cardinalities and why are they used? Discuss their types in brief with suitable diagrams.
 
 - Mapping cardinalities refer to the relationship between entities in a database model, specifying how instances of one entity relate to instances of another entity.
 - These cardinalities help define the nature and constraints of relationships in a database.
@@ -8,7 +8,7 @@
    - One-to-Many (1:N)
    - Many-to-Many (N:M)
 
-> **What are the Mobile App constraints? Illustrate the typical architecture of a mobile app with a suitable diagram.**
+### What are the Mobile App constraints? Illustrate the typical architecture of a mobile app with a suitable diagram.
 
 **Mobile App Constraints:**
 1. Limited Resources:
@@ -37,7 +37,7 @@
 - **Application Layer:** Logic and processing.
 - **Data Layer:** Manages storage and communication.
 
-> **Explain in brief the ways in which caching could be used to speed up Web server performance.**
+### Explain in brief the ways in which caching could be used to speed up Web server performance.
 
 **Caching for Web Server Performance:**
 
