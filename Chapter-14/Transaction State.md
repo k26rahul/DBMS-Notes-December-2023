@@ -1,15 +1,3 @@
-
-
-
-
-
-
-
-
-## Considering the abstract transaction model:
-- a) Illustrate the state diagram of a transaction and elaborate on its states
-- b) Discuss a compensation transaction with an example
-
 **a) Transaction State Diagram:**
 
 ```
