@@ -61,6 +61,9 @@ A transaction Commences with "Begin Transaction," contains SQL operations, concl
 - *Isolation vs. Performance:* Delicate considerations for trade-offs.
 
 **Transaction Isolation Levels**
+
+![Alt text](image-2.png)
+
 - *Read Uncommitted:* The lowest isolation level.
 - *Read Committed:* Guarantees that only committed data is read.
 - *Repeatable Read:* Prevents changes to data read during the transaction.
