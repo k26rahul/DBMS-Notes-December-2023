@@ -9,6 +9,6 @@
   - Challenges: synchronization, load balancing
 
 - Parallel Processing Examples
-  - **Distributed Databases:** Querying data across multiple nodes.
-  - **Data Analytics:** Processing large datasets faster by distributing tasks.
-  - **Web Servers:** Handling multiple user requests concurrently.
+  - *Distributed Databases:* Querying data across multiple nodes.
+  - *Data Analytics:* Processing large datasets faster by distributing tasks.
+  - *Web Servers:* Handling multiple user requests concurrently.

@@ -1,3 +1,14 @@
+- Database Normalization
+  - Process of organizing data efficiently
+  - Reduces redundancy, data anomalies
+  - Divides data into related tables
+  - Normal forms: 1NF, 2NF, 3NF, BCNF, 4NF, 5NF
+  - Ensures data integrity, consistency
+  - Supports efficient querying
+  - Common in relational databases
+
+# Elaborated:
+
 **Database Normalization and Its Importance**
 
 **Definition**: Database normalization is the process of organizing data in a database to reduce data redundancy and improve data integrity.

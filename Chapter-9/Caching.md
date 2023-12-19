@@ -2,8 +2,7 @@
 
 **What is Caching?**
 
-- Caching is a technique in DBMS that speeds up performance by storing often-used data temporarily for quick access.
-- 👉 resulting in quicker access and reduced load on the main database.
+- Caching is a technique in DBMS that speeds up performance by storing often-used data temporarily for **quicker access** and **reduced load on the main database**.
 
 **Terminologies:**
 

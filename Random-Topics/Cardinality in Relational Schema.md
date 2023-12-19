@@ -1,7 +1,0 @@
-- Cardinality in Relational Schema
-  - Describes relationships in DB
-  - 1:1, 1:N, N:M
-  - 1 entity related to how many
-  - Key for data integrity
-  - Example: 1 student -> N courses
-  - Defines table connections
