@@ -62,23 +62,3 @@
 
 * **Data Mining:** Extract hidden patterns and knowledge from large datasets for business intelligence, scientific discovery, etc.
 * **Information Retrieval:** Search and retrieve relevant information from large textual databases (e.g., web searches).
-
-~~**1.11 Specialty Databases:**~~
-
-* ~~**Object-Oriented Databases:** Store complex data types and relationships inherent in object-oriented programming.~~
-* ~~**NoSQL Databases:** Non-relational databases for flexible data structures and scalability suitable for large unstructured data.~~
-* ~~**XML Databases:** Store and query data in XML format.~~
-
-~~**1.12 Database Users and Administrators:**~~
-
-* ~~**End Users:** Access and modify data through applications or queries.~~
-* ~~**Database Administrators (DBAs):** Manage the database, enforce security, perform backups, monitor performance, and tune the system.~~
-* ~~**Database Designers:** Design and implement database structures based on user requirements and data characteristics.~~
-
-~~**1.13 History of Database Systems:**~~
-
-* ~~Early systems (1960s) used hierarchical and network models, limited flexibility and query capabilities.~~
-* ~~Relational model (1970s) revolutionized database design with its simple and elegant structure, becoming the dominant model.~~
-* ~~Advances in hardware and software enabled larger databases, efficient query processing, and distributed architectures.~~
-* ~~Emergence of NoSQL databases in the 2000s provided alternative solutions for handling large, unstructured data beyond the relational model.~~
-* ~~Continued research and development focus on cloud-based solutions, data security, big data analytics, and integration with emerging technologies like AI and machine learning.~~
