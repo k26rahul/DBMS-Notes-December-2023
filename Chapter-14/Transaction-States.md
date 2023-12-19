@@ -1,5 +1,8 @@
 ## Transaction States
 
+![Alt text](image-1.png)
+![Alt text](image.png)
+
 👉 A transaction undergoes various states during its lifecycle. These states capture the different phases of a transaction's execution and help ensure data consistency and integrity.
 
 1. **Active:**
@@ -41,7 +44,7 @@
              +---------v    v    v----------+    v
    +---------+         +----------+         +-----------+
    |         |         |          |         |           |
-   | Failed  | <-------| Aborted  |         | Committed |
+   | Aborted | <-------|  Failed  |         | Committed |
    |         |         |          |         |           |
    +---------+         +----------+         +-----------+
        |                                         |
