@@ -1,3 +1,5 @@
+**🚨🚨🚨 Removed from December syllabus**
+
 - Parallel Processing
 
   - Simultaneous execution of tasks

@@ -1,3 +1,5 @@
+🚨🚨🚨 Removed from December syllabus 🚨🚨🚨
+
 ## 15.4 Timestamp-Based Protocols
 
 - Timestamp-based protocols are concurrency control mechanisms that use timestamps to order transactions.

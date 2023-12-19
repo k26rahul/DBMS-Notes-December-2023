@@ -1,3 +1,5 @@
+**🚨🚨🚨 Removed from December syllabus 🚨🚨🚨**
+
 ## Question
 
 Discuss the concept of **multi-table clustering file organization** as a file storage technique. Consider the following relations:

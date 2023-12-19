@@ -1,3 +1,5 @@
+🚨🚨🚨 Removed from December syllabus 🚨🚨🚨
+
 ## Multiversion Schemes
 
 Multiversion concurrency control (MVCC) is a technique used in databases to manage concurrent access to data by maintaining multiple versions of the same data item. This allows multiple transactions to read and write data simultaneously without conflicting with each other.

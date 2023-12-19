@@ -60,7 +60,7 @@ In this diagram:
 - Arrows indicate transitions between different *states*.
 - The *Initial state* transitions to the *Active state* as the transaction starts.
 - From the *Active state*, the transaction can either transition to the *Partial Commit state* (if successful) or the *Aborted state* (if an error occurs).
-- The *Aborted state* represents the end *state* for a transaction that encounters errors.
+- The *Failed state* represents the end *state* for a transaction that encounters errors.
 - The *Partial Commit state* can lead to either the *Committed state* (if the transaction proceeds successfully) or the *Aborted state* (if an error occurs).
 - The *Committed state* is the final *state*, indicating a successful and permanent transaction.
-- The *Aborted state* transitions directly to the *Failed state* to roll back the transaction.
+- The *Failed state* transitions directly to the *Aborted state* to roll back the transaction.

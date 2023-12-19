@@ -16,9 +16,9 @@ In a multi-user database environment, multiple transactions can be executing con
 
 4. **Deadlock Prevention and Detection:** Concurrency control systems often include mechanisms to prevent and detect deadlocks. A deadlock occurs when transactions are waiting for each other to release locks, resulting in a cyclic waiting situation. Preventing deadlocks and resolving them when detected are essential for maintaining system stability.
 
-6. **Timestamp-Based Schemes:** Another approach involves assigning timestamps to transactions and using these timestamps to determine the order of execution. Older transactions may be given precedence, ensuring a consistent order of execution.
+6. **Timestamp-Based Schemes:** 🚨🚨🚨 Removed from December syllabus 🚨🚨🚨 Another approach involves assigning timestamps to transactions and using these timestamps to determine the order of execution. Older transactions may be given precedence, ensuring a consistent order of execution.
 
-7. **Multiversion Schemes:** Some systems maintain multiple versions of data items to allow transactions to work with a snapshot of the database at their start time. This approach is particularly useful for read operations.
+7. **Multiversion Schemes:** 🚨🚨🚨 Removed from December syllabus 🚨🚨🚨 Some systems maintain multiple versions of data items to allow transactions to work with a snapshot of the database at their start time. This approach is particularly useful for read operations.
 
 8. **Validation-Based Protocols:** Transactions validate their changes against the current state of the database before committing. Read-only transactions validate against the most recent committed transaction.
 
@@ -55,6 +55,8 @@ Sometimes, transactions get stuck waiting for each other's locks, creating a dea
 
 ### 15.3 Multiple Granularity
 
+🚨🚨🚨 Removed from December syllabus 🚨🚨🚨
+
 Going Granular: Different Lock Sizes for Different Needs ️☑️
 
 Not all data deserves the same level of attention. Imagine locking an entire market just to buy a single apple! We have:
@@ -72,6 +74,8 @@ Not all data deserves the same level of attention. Imagine locking an entire mar
   - Allows locking at various levels, from the entire database down to individual records.
 
 ### 15.4 Timestamp-Based Protocols
+
+🚨🚨🚨 Removed from December syllabus 🚨🚨🚨
 
 - **Introduction to Timestamp-Based Protocols:**
   - Uses timestamps to order transactions.
@@ -101,6 +105,8 @@ Transactions validate their changes against the current database state before fi
 
 ### 15.6 Multiversion Schemes
 
+🚨🚨🚨 Removed from December syllabus 🚨🚨🚨
+
 🤔🍃⭐ Imagine having multiple copies of a book, each representing a different edition. Multiversion schemes store snapshots of data items, allowing transactions to work with their own version without conflicts. It's like everyone reading/editing their preferred edition simultaneously.
 
 - **Introduction to Multiversion Schemes:**
@@ -124,7 +130,9 @@ Transactions validate their changes against the current database state before fi
 - **Handling Special Cases:**
   - Inserting, deleting, and searching based on specific conditions (predicates) require special handling in a concurrent environment. We need clever algorithms to ensure data integrity and consistency.
 
-### Beyond the Perfect Picture: Weak Consistency for Scalability 
+### Beyond the Perfect Picture: Weak Consistency for Scalability
+
+🚨🚨🚨 Removed from December syllabus 🚨🚨🚨
 
 Sometimes, perfect consistency takes a backseat for performance and scalability. Weak consistency models relax the rules:
 

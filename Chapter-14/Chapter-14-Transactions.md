@@ -48,12 +48,16 @@ A transaction Commences with "Begin Transaction," contains SQL operations, concl
 
 **Serializability**
 
+🚨🚨🚨 Removed from December syllabus 🚨🚨🚨
+
 - *Definition:*
   - Ensures that the outcome of concurrent transactions is equivalent to a serialized execution.
   - 💡 Making sure that even if multiple transactions are happening at once, the end result is as if they happened one after the other.
 - *Schedule:* The sequential order of execution for a set of transactions.
 
 **Transaction Isolation and Atomicity**
+
+🚨🚨🚨 Removed from December syllabus 🚨🚨🚨
 
 - *Balancing Act:*
   - Striking a balance between maintaining isolation without compromising atomicity.
@@ -70,12 +74,18 @@ A transaction Commences with "Begin Transaction," contains SQL operations, concl
 - *Serializable:* The highest isolation level, preventing all anomalies.
 
 **Implementation of Isolation Levels**
+
+🚨🚨🚨 Removed from December syllabus 🚨🚨🚨
+
 - *Locking Mechanisms:*
   - Ensures exclusive access to data during transactions.
   - 💡 Imagine it as taking turns – one transaction locks the data while it's working so others can't barge in.
 - *Two-Phase Locking:* Ensures a consistent state throughout the transaction.
 
 **Transactions as SQL Statements**
+
+🚨🚨🚨 Removed from December syllabus 🚨🚨🚨
+
 - *Commands:*
   - BEGIN TRANSACTION, COMMIT, ROLLBACK – these SQL statements control the transaction's flow.
   - 💡 Using SQL to tell the database when to start, commit, or rollback a transaction.
@@ -132,6 +142,7 @@ A transaction Commences with "Begin Transaction," contains SQL operations, concl
   - *Challenge:* Preventing issues like data inconsistency, lost updates, or conflicts when multiple transactions access and modify the same data.
 
 - **Locking Mechanisms:**
+  - 🚨🚨🚨 Removed from December syllabus 🚨🚨🚨
   - *Purpose:* Ensures exclusive access to data during a transaction to avoid conflicts.
   - *Example:* If Transaction A is updating a record, Transaction B might have to wait until A finishes to avoid conflicting changes.
 

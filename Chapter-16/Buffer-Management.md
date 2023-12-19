@@ -1,5 +1,7 @@
 ## 16.5 Buffer Management
 
+🚨🚨🚨 Removed from December syllabus 🚨🚨🚨
+
 ### Buffer Manager:
 
 - **Definition:**

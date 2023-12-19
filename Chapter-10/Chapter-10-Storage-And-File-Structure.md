@@ -8,7 +8,7 @@
 
 ### 10.2 Magnetic Disk and Flash Storage
 - **Magnetic Disk**: These disks are central to data storage. They have fast access times and store data magnetically on spinning platters.
-- **Flash Storage**: Solid-State Drives (SSDs) offer high-speed storage, using NAND flash memory. They have no moving parts and are known for their speed and reliability.
+- ~~**Flash Storage**: Solid-State Drives (SSDs) offer high-speed storage, using NAND flash memory. They have no moving parts and are known for their speed and reliability.~~
 - **Optimization**: Database optimization techniques are used to enhance data access on storage media. These include minimizing seek time (the time it takes to position the read/write head) and rotational latency (the time waiting for the desired data to rotate under the read/write head) on magnetic disks.
   - **Example**: To optimize access to data on a magnetic disk, data can be arranged in contiguous disk blocks, reducing seek time and rotational latency.
 

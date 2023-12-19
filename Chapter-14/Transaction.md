@@ -18,6 +18,8 @@ If something goes wrong during the transaction, you can use:
 
 Consider a scenario where $100 is being transferred from Account A to Account B with intermediary steps.
 
+🚨🚨🚨 Removed from December syllabus 🚨🚨🚨
+
 1. **Begin Transaction:**
    ```sql
    BEGIN TRANSACTION;

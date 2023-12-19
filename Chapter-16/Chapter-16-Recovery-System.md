@@ -29,6 +29,8 @@
 
 **16.5 Buffer Management:**
 
+🚨🚨🚨 Removed from December syllabus 🚨🚨🚨
+
 * **Buffer manager:** Manages data pages in main memory buffers for efficient access.
 * **Dirty page table:** Tracks pages with updates needing flush to disk.
 * **Buffer replacement strategies:** LRU, MRU, CLOCK, etc., to determine pages to evict when buffer fills.
