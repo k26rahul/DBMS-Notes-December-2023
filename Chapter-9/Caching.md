@@ -39,3 +39,27 @@
 3. **Object Caching:** Storing objects or data from an Object-Relational Mapping (ORM) framework in memory to avoid repeated database access.
 
 4. **API Response Caching:** Caching API responses to reduce requests to external services and improve application responsiveness.
+
+## Explain in brief the ways in which caching could be used to speed up Web server performance.
+
+**Caching for Web Server Performance:**
+
+- **Browser Caching:**
+  - Store static resources (CSS, JS, images) in the browser cache.
+  - Reduces server requests, improves load times for returning visitors.
+
+- **Content Delivery Network (CDN):**
+  - Distribute content across geographically distributed servers.
+  - Caches content closer to users, reducing latency.
+
+- **Object Caching:**
+  - Cache database query results or frequently used objects.
+  - Reduces repeated processing, speeds up dynamic content delivery.
+
+- **Page Caching:**
+  - Cache entire HTML pages.
+  - Minimizes server processing for frequently accessed pages.
+
+- **Reverse Proxy Caching:**
+  - Use a reverse proxy server to cache content.
+  - Offloads server, improves response times for repeated requests.

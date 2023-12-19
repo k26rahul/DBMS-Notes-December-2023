@@ -73,3 +73,29 @@ Here are some basic RAID types:
 👉 These RAID setups provide a balance between performance and data protection.
 
 👉 The choice depends on factors like how much storage you need, how fast you want your system to be, and how much you're willing to spend on extra drives.
+
+## Redundant array of independent disks forms a major part in the storage structure of databases. Discuss this concept and compare its levels.
+
+**RAID (Redundant Array of Independent Disks):**
+
+1. **RAID 0 (Striping):**
+   - *Advantage:* Improved speed.
+   - *Disadvantage:* No redundancy; data loss if one drive fails.
+
+2. **RAID 1 (Mirroring):**
+   - *Advantage:* High redundancy.
+   - *Disadvantage:* Higher cost; write performance similar to a single drive.
+
+3. **RAID 5 (Striping with Parity):**
+   - *Advantage:* Balanced read/write performance.
+   - *Disadvantage:* Fault tolerance limited to one drive failure.
+
+4. **RAID 10 (Combination of RAID 1 and RAID 0):**
+   - *Advantage:* High redundancy and performance.
+   - *Disadvantage:* Costlier; can tolerate specific drive failures.
+
+5. **RAID 6 (Striping with Dual Parity):**
+   - *Advantage:* Enhanced fault tolerance.
+   - *Disadvantage:* Slightly lower write performance.
+
+Choose based on needs: speed (RAID 0), redundancy (RAID 1), balance (RAID 5), or a mix (RAID 10/6).
