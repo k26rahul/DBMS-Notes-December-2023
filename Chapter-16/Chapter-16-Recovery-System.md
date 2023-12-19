@@ -1,4 +1,4 @@
-## DBMS Chapter 16 Recovery System:
+## DBMS Chapter 16 Recovery System
 
 **16.1 Failure Classification:**
 
