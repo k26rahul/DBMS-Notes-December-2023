@@ -1,4 +1,4 @@
-## Note on Transaction States:
+## Transaction States
 
 👉 A transaction undergoes various states during its lifecycle. These states capture the different phases of a transaction's execution and help ensure data consistency and integrity.
 
