@@ -193,5 +193,5 @@ b) **T2 followed by T1:**
 
 **Consistent State for Displaying (A + B):**
    - Both schedules give consistent results:
-     - a) A + B = $150
-     - b) A + B = $150
+     - a) A + B = $200
+     - b) A + B = $250
